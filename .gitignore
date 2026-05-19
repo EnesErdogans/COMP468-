@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+
+# Large Kaggle data zip
+data/house-prices-advanced-regression-techniques.zip
+
+# Large trained model files (optional - uncomment if too large)
+# model_v1_gb.joblib
+# model_v1_xgb.joblib
+# model_v1_pipeline.joblib
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MCP config (contains API tokens)
+.mcp.json

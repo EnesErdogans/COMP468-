@@ -1,0 +1,10 @@
+pypdf
+pandas
+numpy
+scikit-learn
+xgboost
+openml
+matplotlib
+seaborn
+notebook
+joblib
