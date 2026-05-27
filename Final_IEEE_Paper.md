@@ -265,7 +265,7 @@ The final prediction is a weighted combination:
 
 $$\hat{y}_{\text{final}} = 0.60 \times \hat{y}_{\text{stack}} + 0.40 \times \hat{y}_{\text{blend}}$$
 
-where $\hat{y}_{\text{stack}}$ is the Ridge meta-learner prediction and $\hat{y}_{\text{blend}}$ is the inverse-OOF-RMSLE weighted average of the 7 base models:
+where $\hat{y}$<sub>stack</sub> is the Ridge meta-learner prediction and $\hat{y}$<sub>blend</sub> is the inverse-OOF-RMSLE weighted average of the 7 base models:
 
 $$\hat{y}_{\text{blend}} = \frac{\sum_k w_k \hat{y}_k}{\sum_k w_k}, \quad w_k = \frac{1}{\text{OOF-RMSLE}_k}$$
 
