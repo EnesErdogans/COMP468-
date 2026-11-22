@@ -21,7 +21,7 @@
 |---|---|
 | **University** | Abdullah Gul University (AGU), Kayseri, Turkey |
 | **Course** | COMP 468 — Machine Learning |
-| **Team members** | Mohamed Elkousy (2311021077), Enes Yaviç (2111051025), Enes Erdoğan (2111011061) |
+| **Team members** | Mohamed Elkousy, Enes Yaviç, Enes Erdoğan |
 
 ---
 

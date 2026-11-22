@@ -19,11 +19,11 @@
 
 ## Team
 
-| Name | Student ID |
-|---|---|
-| Mohamed Elkousy | 2311021077 |
-| Enes Yaviç | 2111051025 |
-| Enes Erdoğan | 2111011061 |
+| Name |
+|---|
+| Mohamed Elkousy |
+| Enes Yaviç |
+| Enes Erdoğan |
 
 ---
 

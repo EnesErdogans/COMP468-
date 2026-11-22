@@ -1,8 +1,7 @@
 # Stacked Ensemble Learning with Bayesian Hyperparameter Optimisation for House Price Prediction on the Ames Housing Dataset
 
-**Mohamed Elkousy** (2311021077), **Enes Yaviç** (2111051025), **Enes Erdoğan** (2111011061)  
-Department of Computer Engineering, Abdullah Gul University, Kayseri, Turkey  
-{2311021077, 2111051025, 2111011061}@agu.edu.tr
+**Mohamed Elkousy**, **Enes Yaviç**, **Enes Erdoğan**  
+Department of Computer Engineering, Abdullah Gul University, Kayseri, Turkey
 
 ---
 
